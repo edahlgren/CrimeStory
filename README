@@ -1,0 +1,10 @@
+
+Compile
+	make
+
+Check flags
+        ./crimes ops
+        ./crimes <flags> ops
+
+Run
+	./crimes <flags> <SVG-image> < <JSON-file>
